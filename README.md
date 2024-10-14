@@ -1,5 +1,6 @@
 # Project: Monsoon Data Interpolation Using AWS Scraped Data in QGIS
 
+
 ## Overview
 
 This project involves processing and visualizing monsoon data using QGIS (Geographic Information System) tools. The data, scraped from AWS (Automatic Weather Station), is used to generate shapefiles, create a boundary, and apply interpolation techniques to create meaningful visualizations.
