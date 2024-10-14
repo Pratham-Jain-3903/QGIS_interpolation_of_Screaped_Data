@@ -1,0 +1,150 @@
+FID,Shape *,AWS_ID,AWS__Locat,Latitude,Longitude,Monsoon
+0,Point,10001,Moulali (Malkajgiri),17.454636,78.55968,643
+1,Point,10006,Jubileehills,17.429745,78.40413,770.4
+2,Point,10009,Viratnagar DMRL,17.336317,78.51628,673.3
+3,Point,10012,Musheerabad,17.424212,78.50107,792.7
+4,Point,10013,Bandlaguda,17.365685,78.572,597.2
+5,Point,10014,Madhapur,17.4531,78.3747,1039.9
+6,Point,10153,Pashamylaram,17.53337,78.19473,544.4
+7,Point,10534,Kandikal Gate,17.331907,78.47795,354.5
+8,Point,10535,Maitrivanam,17.436794,78.44608,424.3
+9,Point,10924,Asmanghad,17.363827,78.51595,422.1
+10,Point,10932,Tirumalagiri,17.47133,78.50146,837.9
+11,Point,10935,BHEL Factory,17.494,78.28343,597.7
+12,Point,10976,Malkajgiri,17.455627,78.529465,769.1
+13,Point,10995,Balanagar,17.470497,78.4334,770
+14,Point,10998,Qutballapur,17.500448,78.45005,665
+15,Point,11191,West Maredpally,17.454077,78.51219,852.4
+16,Point,11192,Mondamarket,17.433496,78.49795,900.9
+17,Point,11194,Narayanaguda,17.396914,78.48905,500.2
+18,Point,11195,Srinagarcolony,17.430462,78.44195,776.4
+19,Point,11196,Asifnagar,17.395454,78.428925,788.8
+20,Point,11197,Amberpet,17.395014,78.511215,670.8
+21,Point,11198,Chandulal Baradari (Opp. Zoo Park),17.345076,78.44931,629.9
+22,Point,11199,Golkonda,17.374846,78.39555,585.2
+23,Point,11200,Nampally,17.385736,78.46863,716.6
+24,Point,11201,Qutballapur (GHMC office),17.499475,78.453545,947.7
+25,Point,11202,GHMC Office: Kukatpally,17.50672,78.42137,642.3
+26,Point,11203,Kapra (GHMC Office),17.469929,78.56661,744.4
+27,Point,11204,L.B.Nagar (GHMC Office),17.367014,78.53533,728.7
+28,Point,11206,Sardarmahal (GHMC Office),17.360765,78.47597,772.2
+29,Point,11513,Rajendranagar (ARS),17.3244,78.3993,740.7
+30,Point,11780,Shapur Nagar,17.525246,78.44452,756.2
+31,Point,11925,Bollaram,17.5185,78.509605,939.8
+32,Point,12007,Begumpet (IMD Office),17.4482,78.46503,828
+33,Point,12542,Ganaanka Bhavan,17.407976,78.46022,871.3
+34,Point,30011,Kothabasthi Comm Hall: Alwal,17.49628,78.507256,908
+35,Point,30012,Telecomcolony: Venkatapuram,17.491573,78.4984,898.5
+36,Point,30014,Amberpet Swimming Pool,17.393057,78.51972,524.4
+37,Point,30015,Malakpet Millath Comm Hall,17.38106,78.50033,348
+38,Point,30016,Karwan Panipura Comm Hall,17.3732,78.44626,659.9
+39,Point,30017,Gudimalkapur SBI Colony,17.383303,78.43956,853.7
+40,Point,30018,Ziaguda Ranganath Comm Hall,17.369156,78.45109,619.7
+41,Point,30019,Football Ground Vijayanagar Colony,17.39327,78.45216,906.5
+42,Point,30021,Chandulal Baradari Sports Complex: Doodbowli,17.352516,78.461525,589.4
+43,Point,30022,Bandi Adda Community Hall: Gansibazar,17.366512,78.463104,551.2
+44,Point,30023,Kishanbagh Govt High School,17.360172,78.440414,571
+45,Point,30024,Setwin Training Center: Suleman Nagar,17.353971,78.43286,540.6
+46,Point,30025,Ferozguda Comm Hall: Balanagar,17.464579,78.462425,669.3
+47,Point,30026,Mothinagar Ward Office: Moosapet,17.45625,78.42234,802.7
+48,Point,30027,Bhagath Singh Nagar Park: Fateh Nagar,17.457764,78.45098,647.8
+49,Point,30028,Old Bowenpally Bus stop,17.476995,78.47946,738.1
+50,Point,30029,Laithbagh Tanaji Nagar Comm Hall,17.341896,78.489296,668.7
+51,Point,30030,Barkas Ward Office,17.315153,78.47857,562
+52,Point,30031,OWISI Commnuity Hall: Kanchanbagh,17.32707,78.49423,542.2
+53,Point,30032,Indiranagar Comm Hall: Chandrayanagutta,17.323479,78.47543,540.1
+54,Point,30033,Balashetty Water Tank Building(HMWS): Dabeerpura,17.369099,78.484436,581.9
+55,Point,30034,Library Building: Rein Bazar,17.357998,78.493484,658.9
+56,Point,30035,Kihlwath Community Hallkalipahatak Community Hall,17.35022,78.4767,725
+57,Point,30036,GHMC Welfare Office: Shaikpet,17.404531,78.39681,445
+58,Point,30037,Lungerhouse Haridsaspura Comm Hall,17.378,78.41603,562.6
+59,Point,30038,Pedda Amberpet Hanuman Temple,17.31688,78.64165,467.6
+60,Point,30039,Thorrur Gram Panchayat,17.350945,78.64874,431.6
+61,Point,30040,Kalavancha,17.291004,78.61088,509.9
+62,Point,30041,Lingojiguda Ward Office,17.34681,78.53438,658.3
+63,Point,30042,Prashanth Nagar Comm Hall: Vanasthalipuram,17.335426,78.56772,625.9
+64,Point,30043,South Hasthinapuram South Comm Hall,17.324724,78.55497,707.2
+65,Point,30044,Vaidehinagar,17.321095,78.57218,713
+66,Point,30045,Kavadiguda Dumping Yard,17.415833,78.48,659.8
+67,Point,30046,Veerannagudaa Comm Hall: Kachiguda,17.390278,78.498055,328
+68,Point,30047,Kushaiguda old ward office: Cherlapalli,17.482077,78.57407,395.2
+69,Point,30048,Maheshnagar Ward Office: Dr.A.S.Rao Nagar,17.479156,78.55792,814.6
+70,Point,30049,Cherlapally Health Center,17.464495,78.61104,702.6
+71,Point,30050,Dammaiguda Municipal Council Building: Bandlagud,17.50161,78.62363,754
+72,Point,30051,Dr.MCRHRD IT Campus,17.433477,78.42055,746.1
+73,Point,30052,Pillidarga Ward Office: Borabanda,17.451488,78.40889,566.8
+74,Point,30053,Yousufguda HMWBS: (Krishnanagar),17.437017,78.43232,675.2
+75,Point,30054,Fatima Nagar community Hall,17.450256,78.42733,589.1
+76,Point,30055,CBCID Colony: KPHB,17.497517,78.38051,581.8
+77,Point,30056,Balaji Nagar,17.482891,78.409325,662.1
+78,Point,30057,Rajiv Gruha Kalpa: Jagadgirigutta,17.50672,78.42137,745.1
+79,Point,30058,Sumitranagar Colony,17.487045,78.411644,708.4
+80,Point,30059,Allwyn Colony Shamshiguda Comm Hall,17.50606,78.404076,723.7
+81,Point,30060,HMT hills: HyderNagar,17.503048,78.399536,770.9
+82,Point,30061,Allapur Vivekananda Nagar Comm Hall,17.459558,78.399475,777.9
+83,Point,30063,Prasanth Nagar Community Hall: East Anandbagh,17.444721,78.54305,636
+84,Point,30064,Madhusudhan Nagar Comm.Hall,17.4427,78.5277,669.3
+85,Point,30065,Vivekanandapuram Comm Hall: Neredmet,17.4892,78.53111,768.2
+86,Point,30066,Deendayal Comm Hall: Vinayaka Nagar,17.472221,78.54639,737.8
+87,Point,30067,Addagutta Community Hall,17.443056,78.52361,646.6
+88,Point,30068,Indiranagar Community Hall: Tarnaka,17.441595,78.54256,653.8
+89,Point,30069,Mettuguda Govt.: Primary School,17.433374,78.519394,623.1
+90,Point,30070,Seethapalmandi Kindi Basthi Comm Hall,17.42639,78.513336,582.4
+91,Point,30071,Pikit Health center:Contonment Area,17.452557,78.50003,732.3
+92,Point,30072,Peerzadiguda Muncipal Council Building,17.395082,78.59189,590.8
+93,Point,30073,SRT Park Comm Hall: Ramnagar,17.408333,78.505554,692.5
+94,Point,30074,Padmarao Nagar Venkatapuram Ground,17.42632,78.4923,649.7
+95,Point,30075,Osmania University Registrar Office,17.406706,78.519226,652.6
+96,Point,30076,Red Hills play ground,17.395851,78.46462,778.8
+97,Point,30077,Begum Bazar DoodhKhana UHC,17.375645,78.47123,629.5
+98,Point,30078,LB Stadium: Gunfoudry,17.399162,78.47432,653.6
+99,Point,30079,Dogs Control Building:Gowliwada Jumerath Bazar,17.371206,78.46423,392.1
+100,Point,30080,GHMC Circle Office: Patancheru,17.53477,78.26311,488.4
+101,Point,30081,Shanthi nagar Kalyanamandapam: Patancheru,17.5279,78.265884,486.7
+102,Point,30082,ModernComm Hall: Rangareddy Nagar,17.484777,78.44695,659.2
+103,Point,30083,HMT Line: Chintal,17.514992,78.438614,411.3
+104,Point,30084,S.R.Naik Nagaa: Subhash Nagar,17.53249,78.445465,664.6
+105,Point,30085,Gayatri Nagar: Jeedimetla,17.505287,78.4708,729.9
+106,Point,30086,Ushodaya Colony Park: Gajularamaram,17.52225,78.42664,733.7
+107,Point,30087,BR Ambedkar bhavan,17.538233,78.433464,560.1
+108,Point,30088,GHMC Circle office: Rajendranagar,17.331856,78.408875,641.8
+109,Point,30089,RDO Office: Attapur,17.357323,78.425385,520.7
+110,Point,30090,Primary Urban Health Center: Jahanuma,17.33322,78.45729,589.3
+111,Point,30091,Near Ekta Colony: Shastripuram (Sivarampally),17.330753,78.43711,546.6
+112,Point,30092,Sub Station: Mailardevpally: Sivarampally,17.31499,78.44551,563.4
+113,Point,30094,DEO office Beside Substation: R.C.Puram,17.509394,78.30196,824
+114,Point,30095,Vinay Nagar Comm Hall: I.S.Sadan,17.352907,78.50762,629.5
+115,Point,30097,Branch Library: Santhosh Nagar,17.34946,78.50597,602.4
+116,Point,30098,Govt. Boys High School: Kurmaguda,17.36007,78.50423,609.7
+117,Point,30099,Alakapuri Comm Hall,17.36545,78.55312,784.2
+118,Point,30100,Bavani Nagar Comm Hall,17.35032,78.56226,626.9
+119,Point,30101,Rock Town Colony: Nagole,17.36184,78.56267,650.8
+120,Point,30102,Thatiannaram,17.366968,78.59669,483.3
+121,Point,30103,Patigadda,17.433964,78.484116,720.5
+122,Point,30104,Raidurga Ward Office: Gachibowli,17.413216,78.3923,779.3
+123,Point,30105,Kakatiya Hills: Madhapur,17.441742,78.39747,665.6
+124,Point,30106,JPN Nagar Comm Hall: Miyapur,17.50657,78.35638,601.6
+125,Point,30107,Urban Health Centre: Hafeezpet,17.486649,78.35675,525.6
+126,Point,30108,Nerella Park: Sai baba Temple: Kondapur,17.462606,78.36462,734.8
+127,Point,30109,MMTS Lingampally,17.485308,78.31467,638.4
+128,Point,30110,PJR Stadium: Chandanagar,17.488832,78.32437,556.1
+129,Point,30111,Khajaguda Sports Complex Gachibowli,17.418348,78.36665,826.3
+130,Point,30112,Tolichowki Dalith Bhavan,17.403591,78.419685,659.6
+131,Point,30113,Venkateshwara Colony: Banjarahills,17.419476,78.44202,563.3
+132,Point,30114,CMTC Premises: Banjara Hills,17.41398,78.43367,781.4
+133,Point,30115,Goutham Nagar Function Hall: Film nagar,17.411781,78.41054,267.6
+134,Point,30116,Venkatgiri Water Tank: Vengalrao Nagar,17.432058,78.422134,726.2
+135,Point,30117,Rajiv Nagar Community Hall,17.4606,78.5704,566.9
+136,Point,30118,Mallapur Biodiversity,17.44587,78.57425,574.4
+137,Point,30119,Chilkanagar Comm Hall,17.421682,78.563255,730.3
+138,Point,30120,Shanthi Nagar Comm Hall: Uppal,17.397623,78.57161,757.5
+139,Point,30121,Maruthi Nagar Mahila Sabha Center,17.375414,78.54099,755.3
+140,Point,30122,New Nagole Welfare association,17.3734,78.55612,282.5
+141,Point,30123,Habsiguda JSN Colony,17.405237,78.54175,645.4
+142,Point,30124,Ramanthapur Ward Office,17.392805,78.536575,682.7
+143,Point,30125,Nacharam Ward Office,17.424128,78.54361,625.9
+144,Point,30126,Balramnagar Welfare Association: Safilguda,17.466393,78.53417,792
+145,Point,30127,GHMC Building Secunderabad,17.40791,78.47556,641.3
+146,Point,30128,CESS,17.432142,78.45264,616.7
+147,Point,30129,Allabada Water Reservoir,17.380026,78.45543,683.5
+148,Point,30130,Mehdipatnam Navodaya Comm Hall,17.387674,78.43624,739.5

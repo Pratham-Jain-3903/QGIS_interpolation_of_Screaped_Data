@@ -1,0 +1,4 @@
+1. Generate shapefile using the given data.
+2. Generate a boundary shapefile such that it covers all the points.
+3. Interpolate monsoon data in the point shape file over the generated boundary using IDW, TIN interpolation techniques 
+4. Prepare maps of interpolation techniques
